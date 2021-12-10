@@ -6,6 +6,7 @@ public class GitPractice {
 		
 		System.out.println("colloboration successful");
 		System.out.println("Enter a number");
+		System.out.println("1");
 
 	}
 
