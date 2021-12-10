@@ -6,7 +6,15 @@ public class GitPractice {
 		
 		System.out.println("colloboration successful");
 		System.out.println("Enter a number");
-		System.out.println("1");
+		int i = 50;
+		if(i%2==0)
+		{
+			System.out.println("even");
+		}else
+		{
+			System.out.println("odd");
+		}
+			
 
 	}
 
